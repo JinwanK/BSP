@@ -1,4 +1,4 @@
-  1 #include <linux/init.h>
+  1 #include <linux/init.h>   // 0x00으로 실행 시 버튼을 누르면 LED가 켜진다.
   2 #include <linux/module.h>
   3 #include <linux/kernel.h>
   4
